@@ -1,7 +1,3 @@
-1. please join the my channel telegram : https://t.me/tmcyebrscreen
-2. Fork it...
-
-
 $ apt update
 $ apt upgrade
 $ apt install python
